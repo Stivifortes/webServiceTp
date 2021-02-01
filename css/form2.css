@@ -1,0 +1,31 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+
+#cabecalho{
+    position: relative;
+    margin: 10px;
+    
+}
+
+p{
+    background-color: rgb(141, 141, 182);
+    padding: 2px;
+    font-size: 20px;
+    margin-right: 4px;
+    display: inline;
+}
+
+#ttl{
+    padding-right: 357px;
+    background-color: rgb(179, 179, 236);
+}
+
+#comp{
+    margin: 10px;
+    padding-bottom: 100px;
+    
+
+}
